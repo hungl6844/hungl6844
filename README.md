@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Akshat Deshpande!
+I'm a junior in high school with experience in Rust, Java, and Linux.
+
+Here's some projects I've been working on:
+- [musicmatcher](https://github.com/hungl6844/musicmatcher)
+- [multitag](https://github.com/hungl6844/multitag)
+- [oggmeta](https://github.com/hungl6844/oggmeta)
 
 <!--
 **hungl6844/hungl6844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Contact me at my [email](mailto:akshatd618@gmail.com) or shoot me a DM on Discord @ hungl
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/hungl018?isRounded=true&displayName=true)
