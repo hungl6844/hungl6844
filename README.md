@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Contact me at my [email](mailto:akshatd618@gmail.com) or shoot me a DM on Discord @ hungl
+
 ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/hungl018?isRounded=true&displayName=true)
+yeah everything I've been working on has to do with music
+<p><img src="https://myreadme.vercel.app/api/embed/hungl6844?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
