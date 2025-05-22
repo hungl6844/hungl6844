@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 Contact me at my [email](mailto:akshatd618@gmail.com) or shoot me a DM on Discord @ hungl
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=akshat618&loved=true&show_user=header&loved_style=4&bg_color=00000050)](https://www.last.fm/user/akshat618)
-
-yeah everything I've been working on has to do with music lmao
