@@ -1,5 +1,5 @@
 ## Hi, I'm Akshat Deshpande!
-I'm a senior in high school with experience in Rust, Java, and Linux.
+I'm an engineering student at Purdue University with experience in Rust, Java, and Linux.
 
 Here's some projects I've been working on:
 - [musicmatcher](https://github.com/hungl6844/musicmatcher)
